@@ -4,7 +4,7 @@ Live streaming debate with real-time scoring, round cards,
 leaderboard, and final verdict animation.
 """
 
-import sys
+import sys 
 import json
 import time
 import plotly.graph_objects as go
