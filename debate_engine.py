@@ -8,7 +8,7 @@ Architecture:
   Agent A  — Assigned PRO position, aggressive debater style
   Agent B  — Assigned CON position, analytical debater style
   Judge    — Neutral AI scoring each round on logic, evidence, rhetoric
-  Moderator— Controls flow, enforces turn limits, summarises
+  Moderator— Controls flow, enforces turn limits, summarises 
 
 Debate formats:
   - Oxford style     : opening → rebuttals → closing
